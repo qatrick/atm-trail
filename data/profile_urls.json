@@ -1,0 +1,431 @@
+{
+  "runners_with_profiles": {
+    "Alessandro Sherpa": [
+      "https://www.asiatrailmaster.com/alessandro-sherpa"
+    ],
+    "Alfie Mendoza": [
+      "https://www.asiatrailmaster.com/alfie-mendoza"
+    ],
+    "Ali Ajis Rasil": [
+      "https://www.asiatrailmaster.com/ali-ajis-rasil"
+    ],
+    "Amirul Tuah": [
+      "https://www.asiatrailmaster.com/amirul-tuah"
+    ],
+    "Arief Wismoyono": [
+      "https://www.asiatrailmaster.com/arief-wismoyono"
+    ],
+    "Carrie Jane Stander": [
+      "https://www.asiatrailmaster.com/carrie-jane-stander"
+    ],
+    "Cheryl Bihag": [
+      "https://www.asiatrailmaster.com/cheryl-bihag"
+    ],
+    "Christine Salazar": [
+      "https://www.asiatrailmaster.com/christine-salazar"
+    ],
+    "Chui Peng Lye": [
+      "https://www.asiatrailmaster.com/chui-peng-lye"
+    ],
+    "Dendi Dwitiandi": [
+      "https://www.asiatrailmaster.com/dendi-dwitiandi"
+    ],
+    "Fredelyn Alberto": [
+      "https://www.asiatrailmaster.com/fredelyn-alberto"
+    ],
+    "Hafizan Lamin": [
+      "https://www.asiatrailmaster.com/hafizan-lamin"
+    ],
+    "Hisashi Kitamura": [
+      "https://www.asiatrailmaster.com/hisashi-kitamura"
+    ],
+    "Ina Budiyarni": [
+      "https://www.asiatrailmaster.com/ina-budiyarni",
+      "https://www.asiatrailmaster.com/ina-budiyarni-1"
+    ],
+    "Isaac Yuen Wan Ho": [
+      "https://www.asiatrailmaster.com/isaac-yuen-wan-ho-1"
+    ],
+    "Jan Nilsen": [
+      "https://www.asiatrailmaster.com/jan-nilsen",
+      "https://www.asiatrailmaster.com/jan-nilsen-1"
+    ],
+    "Jay Jamil": [
+      "https://www.asiatrailmaster.com/jay-jamil"
+    ],
+    "Joeffrey Camara": [
+      "https://www.asiatrailmaster.com/joeffrey-camara"
+    ],
+    "John Ellis": [
+      "https://www.asiatrailmaster.com/john-ellis"
+    ],
+    "Joseph Sibal": [
+      "https://www.asiatrailmaster.com/joseph-sibal"
+    ],
+    "Karhoe Ng": [
+      "https://www.asiatrailmaster.com/karhoe-ng"
+    ],
+    "Kent Stander": [
+      "https://www.asiatrailmaster.com/kent-stander"
+    ],
+    "Khatrina Visperas": [
+      "https://www.asiatrailmaster.com/khatrina-visperas"
+    ],
+    "Kim Matthews": [
+      "https://www.asiatrailmaster.com/kim-matthews"
+    ],
+    "Lily Suryani": [
+      "https://www.asiatrailmaster.com/lily-suryani-1"
+    ],
+    "Masafumi Yamamoto": [
+      "https://www.asiatrailmaster.com/masafumi-yamamoto"
+    ],
+    "Matnarudin Ibrahim": [
+      "https://www.asiatrailmaster.com/matnarudin-ibrahim"
+    ],
+    "Melanie Hingpit": [
+      "https://www.asiatrailmaster.com/melanie-hingpit"
+    ],
+    "Michael McLean": [
+      "https://www.asiatrailmaster.com/michael-mclean"
+    ],
+    "Milton Amat": [
+      "https://www.asiatrailmaster.com/milton-amat"
+    ],
+    "Montha Suntornwit": [
+      "https://www.asiatrailmaster.com/montha-suntornwit"
+    ],
+    "Nikom Tongjai": [
+      "https://www.asiatrailmaster.com/nikom-tongjai"
+    ],
+    "Ramie Amigleo": [
+      "https://www.asiatrailmaster.com/ramie-amigleo"
+    ],
+    "Rene Amigleo": [
+      "https://www.asiatrailmaster.com/rene-amigleo"
+    ],
+    "Rex See": [
+      "https://www.asiatrailmaster.com/rex-see"
+    ],
+    "Ruth Theresia": [
+      "https://www.asiatrailmaster.com/ruth-theresia-1",
+      "https://www.asiatrailmaster.com/ruth-theresia-2"
+    ],
+    "Shashwat Rao": [
+      "https://www.asiatrailmaster.com/shashwat-rao"
+    ],
+    "Shindy Patricia": [
+      "https://www.asiatrailmaster.com/shindy-patricia-1"
+    ],
+    "Siokhar Lim": [
+      "https://www.asiatrailmaster.com/siokhar-lim"
+    ],
+    "Sri Wahyuni": [
+      "https://www.asiatrailmaster.com/sri-wahyuni"
+    ],
+    "Stephen Wiseman": [
+      "https://www.asiatrailmaster.com/stephen-wiseman"
+    ],
+    "Sukrit Kaewyoun": [
+      "https://www.asiatrailmaster.com/sukrit"
+    ],
+    "Sungsik Joh": [
+      "https://www.asiatrailmaster.com/sungsik-joh"
+    ],
+    "Susie Lai": [
+      "https://www.asiatrailmaster.com/susie-lai"
+    ],
+    "Tahira Najmunisaa": [
+      "https://www.asiatrailmaster.com/tahira-najmunisaa"
+    ],
+    "Tomohiro Mizukoshi": [
+      "https://www.asiatrailmaster.com/tomohiro-mizukoshi"
+    ],
+    "Trevor Lim Jyh Hann": [
+      "https://www.asiatrailmaster.com/trevor-lim"
+    ],
+    "Yew Hock Lim": [
+      "https://www.asiatrailmaster.com/yew-hock-lim"
+    ],
+    "Yim Heng Fatt": [
+      "https://www.asiatrailmaster.com/yim-heng-fatt-1"
+    ]
+  },
+  "all_single_segment": [
+    "0105-pmtf",
+    "0108-akha-trail-tha",
+    "0110-mu-cang-chai-ultra-trail-vie",
+    "0203-mt-kalatungan-ultra-phi",
+    "0210-ferei-dark-45-hkg",
+    "0407-minamiaso-caldera-trail-jpn",
+    "0410-atm-final-mu-cang-chai-vie",
+    "05-jumla-rara-ultra-nep",
+    "0503-brah-yang-trail-summits-vie",
+    "0504-manjushree-trail-npl",
+    "0507-mantra-116-ina",
+    "0508-akha-trail-tha",
+    "0509-jagoi-ultra-mas",
+    "0512-pokhara-ultra-nep",
+    "0605-sierra-madre-trail-ultra-phi",
+    "0607-shiga-kogen-100-jpn",
+    "0611-doi-nhok-trail-tha",
+    "0802-gm-only-santa-ines-mountain-adventure-phi",
+    "0802-kalaw",
+    "0803-vietnam-ultra-marathon-vie",
+    "0811-gm-only-dasal-phi",
+    "0901-utcm-tha",
+    "0905-gm-only",
+    "0912-mt-apo-sky-race-phi",
+    "1006-mt-hamiguitan-trail-phi",
+    "1012-izu-trail-journey-jpn-copy-1",
+    "1102-bagtit-ultra-phi",
+    "1111-lam-dong-trail-vie",
+    "1112-soimalai-ultra-tha",
+    "1207-gm-only-camiguin-island-trail-phi",
+    "1210-broder-50-ina",
+    "1212-gm-only-maco-de-oro-trail-phi",
+    "1406-my-home-trail-tha",
+    "1406-point-trail-ultra-phi",
+    "1408-yam-trail-ulaanbaatar-mgl",
+    "1505-btr-challenge-ina",
+    "1508-gm-only-tmb-100-mas",
+    "1510-seoul-100k-kor",
+    "1605-fish-tail-ultra-nep",
+    "1605-gm-only-harkor-phi",
+    "1804-gm-only-bislig-ultra-phi",
+    "1804-gm-only-danao-city-int-ultra-trail-phi",
+    "1809-tunggul-melati-trail-mas",
+    "1903-butm-mas",
+    "1909-gm-only-transnaning-challenge-mas",
+    "2001-vietnam-trail-marathon-vie-copy",
+    "2002-pangantucan-ultra-trail-phi",
+    "2007-tahura-trail-ina",
+    "2008-jember-ultra-ina",
+    "2012-new-corella-trail-ultra-phi",
+    "2015-asia-trail-master-champions",
+    "2015-national-trail-masters",
+    "2016-national-trail-masters",
+    "2017atmsranking",
+    "2022-atm-calendar",
+    "2022-atm-championship-final",
+    "2022-atm-championship-final-1",
+    "2023-atm-championship-final",
+    "2023-atm-season-viii-overview",
+    "2024-atm-championship-calendar",
+    "2024-atm-championship-race-result",
+    "2024-atm-final",
+    "2024-atm-points-ranking",
+    "2024-atm-points-system",
+    "2024-atm-race-results",
+    "2024-atm-season-ix-overview",
+    "202425-s10-atm-calendar-overview-copy",
+    "2025-atm-championship-final",
+    "2026-championship-final-results",
+    "2026-s10-atm-championship-final",
+    "2106-mt-popa-jungle-trail-mya",
+    "2205-kibalabag-trail-ultra-phi",
+    "2206-trail-des-gombak-mas",
+    "2207-muspo-bukidnon-100-phi",
+    "2208-gm-only-pahang-eco-mas",
+    "2210-ultramarathon-de-sai-kung-hkg",
+    "2211-gm-only-thailand-500-tha",
+    "2307-mt-daisetsu-trail-journey-jpn",
+    "2311-gm-only-sc-70-phi",
+    "2409-luang-prabang-ultra-trail-lao",
+    "2410-gm-ultra-kokol-ultra-mas",
+    "2410-tulay-trail-tha",
+    "2510-ultra-fish-n-sheep-hkg",
+    "2609-gm-only-santra-cruz-trail-ultra-phi",
+    "2612-gm-only-cuc-phuong-jungle-paths-vie",
+    "2707-kadamaian-ultra-mas",
+    "2803-gm-only-arakan-mountain-run-phi",
+    "2811-gm-only-trail-des-lenggeng-mas",
+    "2906-utsg-50-sin",
+    "3008-gm-only-marilog-ultra-phi",
+    "adelinahlintanga",
+    "akmaral-meirman",
+    "akol",
+    "aleksis-capili",
+    "aleksiscapili",
+    "alessandro-sherpa",
+    "alfie-mendoza",
+    "ali-ajis-rasil",
+    "amirul-tuah",
+    "arief-wismoyono",
+    "atm-calendar-database",
+    "atm-champions",
+    "atm-championship-final",
+    "atm-friends",
+    "atm-race-winners",
+    "atm-tale-of-the-trail",
+    "atm-tale-of-the-trail-copy",
+    "benefits",
+    "beyondasia",
+    "borneo-tmbt-ultra-marathon-1",
+    "cameron-ultra-mas",
+    "carrie-jane-stander",
+    "cecile-wael",
+    "charity",
+    "cheryl-bihag",
+    "christine-salazar",
+    "chui-peng-lye",
+    "conditions-of-entry",
+    "contact",
+    "cordillera-conservation-trust",
+    "country-archive",
+    "dalat-ultra-trail",
+    "deepjapanultra",
+    "definition",
+    "dendi-dwitiandi",
+    "echigo-country-trail",
+    "ecotrail-al-ula",
+    "ekin-poe-seng-hoe",
+    "endurance-asia-podcast",
+    "fredelyn-alberto",
+    "gm-onlya1-philippines-phi",
+    "gone-running",
+    "grandmaster",
+    "grandmaster-database",
+    "grandmaster-test-page",
+    "gyesook-lee",
+    "hafizan-lamin",
+    "hamugaway",
+    "he-lang",
+    "hisashi-kitamura",
+    "home",
+    "home-nature",
+    "home2019",
+    "huzairi-shah",
+    "ina-budiyarni",
+    "ina-budiyarni-1",
+    "isaac-yuen-wan-ho-1",
+    "jan-nilsen",
+    "jan-nilsen-1",
+    "jassica-lintanga",
+    "jay-jamil",
+    "joanna-plumbley",
+    "joeffrey-camara",
+    "john-ellis",
+    "joseph-sibal",
+    "karhoe-ng",
+    "kent-stander",
+    "khatrina-visperas",
+    "kim-matthews",
+    "kim-yongkee",
+    "koboi",
+    "korea-50k-kor",
+    "koy-grey",
+    "la-sportiva",
+    "lantau-70-hkg",
+    "legends",
+    "lily-suryani-1",
+    "luc-hapers",
+    "majell-backhausen",
+    "mantra-summits-challenge",
+    "masafumi-yamamoto",
+    "matnarudin-ibrahim",
+    "mcc",
+    "media-1",
+    "melanie-hingpit",
+    "merapohrainforest",
+    "michael-mclean",
+    "milton-amat",
+    "mission-i",
+    "mission-ii",
+    "mission-iii",
+    "mission-iv",
+    "mission-v",
+    "mission-vi",
+    "mission-vii",
+    "mongolian-empire-yam-trail",
+    "montha-suntornwit",
+    "multimedia",
+    "new-blog",
+    "newhale",
+    "news",
+    "nguyen-tien-dat",
+    "nikom-tongjai",
+    "objectives",
+    "official-video-sungai-menyala-forest-trail",
+    "official-video-utkc-2017",
+    "ohmmalaihom",
+    "operation-smile",
+    "otso",
+    "pablo-diago-gonzales",
+    "penangeco100",
+    "penangskyrace",
+    "photo-gallery",
+    "prenn",
+    "puteri-erin-aziz",
+    "qu-lijie-shan-hu",
+    "ramie-amigleo",
+    "rene-amigleo",
+    "rex-see",
+    "rizan-latif",
+    "road-runs",
+    "robert-butcher",
+    "romualdocalbes",
+    "runningproject",
+    "ruth-theresia-1",
+    "ruth-theresia-2",
+    "s10atmfinal",
+    "s11-overview",
+    "salomon",
+    "season-10-points-ranking",
+    "season-10-points-ranking-copy",
+    "season-10-race-results",
+    "season-11-results",
+    "season-12-atm-calendar-overview",
+    "season-xi-points-ranking",
+    "season-xi-points-ranking-copy",
+    "season-xii-points-ranking",
+    "season-xii-race-results",
+    "shashwat-rao",
+    "shindy-patricia-1",
+    "silabur",
+    "siokhar-lim",
+    "som-tamang",
+    "sponsors",
+    "sri-wahyuni",
+    "stephen-wiseman",
+    "sukrit",
+    "sungsik-joh",
+    "susie-lai",
+    "suunto",
+    "suunto-1",
+    "t7m-newsreel",
+    "t8-underwear",
+    "tahira-najmunisaa",
+    "tahura",
+    "talking-trail-running",
+    "test-live",
+    "the-7-missions",
+    "the-9-dragons-ultra",
+    "the-asia-trail-grandmaster-quest",
+    "the-grandmasters-copy",
+    "the-punisher-phi",
+    "thumbie-remigio",
+    "tomohiro-mizukoshi",
+    "training-camps",
+    "trevor-lim",
+    "tribu",
+    "uglow-sport",
+    "uglowcover",
+    "ullas-narayana",
+    "ulleungdon",
+    "ultra-trail-chiang-mai-tha",
+    "ultra-trail-chiang-rai",
+    "ut-koh-chang-tha",
+    "vietnam-jungle-marathon",
+    "vjm",
+    "vmm",
+    "vtrail",
+    "wasin-monghkolmalee",
+    "wataru-iino",
+    "wei-lin-tseng",
+    "yan-longfei",
+    "yew-hock-lim",
+    "yim-heng-fatt-1",
+    "zenone-poles"
+  ]
+}

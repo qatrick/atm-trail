@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ATM Grandmasters</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="atmosphere" aria-hidden="true"></div>
+
+  <header class="hero">
+    <p class="eyebrow">Asia Trail Master</p>
+    <h1 id="pageTitle">Grandmasters</h1>
+    <p class="lede" id="pageLede">Hall of Fame — search the quest by name, stars, or country.</p>
+    <nav class="view-tabs" aria-label="Views">
+      <button type="button" class="tab active" data-view="runners" id="tabRunners">Grandmasters</button>
+      <button type="button" class="tab" data-view="events" id="tabEvents">Events</button>
+    </nav>
+  </header>
+
+  <section class="controls" id="runnerControls" aria-label="Runner filters">
+    <label class="search">
+      <span class="sr-only">Search runner name</span>
+      <input id="search" type="search" placeholder="Search runner name…" autocomplete="off" />
+    </label>
+    <label>
+      <span class="sr-only">Stars</span>
+      <select id="stars">
+        <option value="">All stars</option>
+        <option value="4">4-star</option>
+        <option value="3">3-star</option>
+        <option value="2">2-star</option>
+        <option value="1">1-star</option>
+      </select>
+    </label>
+    <label>
+      <span class="sr-only">Country</span>
+      <select id="country">
+        <option value="">All countries</option>
+      </select>
+    </label>
+    <label class="check">
+      <input id="hasProfile" type="checkbox" />
+      <span>Has race profile</span>
+    </label>
+  </section>
+
+  <section class="controls hidden" id="eventControls" aria-label="Event filters">
+    <label>
+      <span class="sr-only">Source</span>
+      <select id="eventSource">
+        <option value="both">ATM + RTS</option>
+        <option value="atm">ATM only</option>
+        <option value="rts">RTS only</option>
+      </select>
+    </label>
+    <label class="search">
+      <span class="sr-only">Search race name</span>
+      <input id="eventSearch" type="search" placeholder="Search race name…" autocomplete="off" />
+    </label>
+    <label id="eventSeasonWrap">
+      <span class="sr-only">Season</span>
+      <select id="eventSeason">
+        <option value="">All seasons</option>
+      </select>
+    </label>
+    <label id="eventYearWrap">
+      <span class="sr-only">Year</span>
+      <select id="eventYear">
+        <option value="">All years</option>
+      </select>
+    </label>
+    <label id="eventCalendarWrap">
+      <span class="sr-only">Calendar</span>
+      <select id="eventCalendar">
+        <option value="grandmaster" selected>Grandmaster</option>
+        <option value="">All calendars</option>
+        <option value="championship">Championship</option>
+        <option value="candidate">Candidate</option>
+      </select>
+    </label>
+    <label id="eventCountryWrap">
+      <span class="sr-only">Country</span>
+      <select id="eventCountry">
+        <option value="">All countries</option>
+      </select>
+    </label>
+  </section>
+
+  <p class="stats" id="stats">Loading…</p>
+
+  <main class="grid" id="grid" aria-live="polite"></main>
+
+  <dialog id="drawer" class="drawer">
+    <form method="dialog" class="drawer-close">
+      <button value="close" aria-label="Close">×</button>
+    </form>
+    <div id="drawerBody"></div>
+  </dialog>
+
+  <script src="/static/app.js" type="module"></script>
+</body>
+</html>

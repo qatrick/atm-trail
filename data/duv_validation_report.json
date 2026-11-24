@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 5,
+    "name": "Ariel Boledo",
+    "country": "PHI",
+    "duv_id": "1268447",
+    "rts_id": "108246",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Ariel Ibarrola, Ricardo",
+      "nat": "ARG",
+      "span": "2019-2024",
+      "events": 12
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 6,
+    "name": "Arnold Talandro",
+    "country": "PHI",
+    "duv_id": "1292279",
+    "rts_id": "103395",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 5
+    },
+    "duv": {
+      "name": "Talandron, Arnold",
+      "nat": "PHI",
+      "span": "2018-2026",
+      "events": 21
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 23,
+    "name": "Adelinah Lintanga",
+    "country": "MAS",
+    "duv_id": "739485",
+    "rts_id": "100695",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 17
+    },
+    "duv": {
+      "name": "Lintanga, Adelinah (Narna)",
+      "nat": "MAS",
+      "span": "2015-2026",
+      "events": 36
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 2,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 26,
+    "name": "Frasel Reston",
+    "country": "PHI",
+    "duv_id": "2122285",
+    "rts_id": "104422",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Reston, Frasel Pelicano",
+      "nat": "PHI",
+      "span": "2023-2026",
+      "events": 12
+    },
+    "result": "duv_ok_rts_unclear"
+  },
+  {
+    "id": 33,
+    "name": "Adrian Sorano",
+    "country": "PHI",
+    "duv_id": "2701291",
+    "rts_id": "118297",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Indonesia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Adrian, Edward",
+      "nat": "PHI",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 35,
+    "name": "Andy Suriadie Haji Safar",
+    "country": "BRU",
+    "duv_id": "1020733",
+    "rts_id": "115382",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Safar, Gus",
+      "nat": "USA",
+      "span": "2017-2025",
+      "events": 27
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 51,
+    "name": "Mohamad Tauffik Bin Mohamad Noor",
+    "country": "MAS",
+    "duv_id": "2288609",
+    "rts_id": "114093",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 3
+    },
+    "duv": {
+      "name": "Noor Hidzan, Mohamad Syahmi",
+      "nat": "MAS",
+      "span": "2024-2024",
+      "events": 2
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 2,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sara Low Abdullah",
+    "country": "BRU",
+    "duv_id": "2255278",
+    "rts_id": "103551",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Abdullah, Sarah Low",
+      "nat": "BRU",
+      "span": "2024-2026",
+      "events": 4
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 59,
+    "name": "Thuy Bee",
+    "country": "VIE",
+    "duv_id": "2685289",
+    "rts_id": "102265",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Bee, Bee",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 62,
+    "name": "Yumail Ng Bo Sam",
+    "country": "MAS",
+    "duv_id": "1690977",
+    "rts_id": "102212",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Hong Kong",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Sam, Chee Kwong",
+      "nat": "MAS",
+      "span": "2021-2026",
+      "events": 15
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 63,
+    "name": "Zainal Azim Haji Zainal Abidin",
+    "country": "BRU",
+    "duv_id": "2775502",
+    "rts_id": "107162",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Zainal, Rafie",
+      "nat": "BRU",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 64,
+    "name": "Trevor Lim Jyh Hann",
+    "country": "MAS",
+    "duv_id": "1202786",
+    "rts_id": "103603",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 11
+    },
+    "duv": {
+      "name": "Hann, Colin",
+      "nat": "GBR",
+      "span": "2018-2024",
+      "events": 21
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 67,
+    "name": "Ang Yee Mei",
+    "country": "MAS",
+    "duv_id": "2470664",
+    "rts_id": "122992",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Mei, Ing-Ting",
+      "nat": "MAS",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 85,
+    "name": "Shekinah Velasquez",
+    "country": "PHI",
+    "duv_id": "1818277",
+    "rts_id": "121796",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Velasquez, Shekinah Glory",
+      "nat": "PHI",
+      "span": "2022-2026",
+      "events": 10
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 2,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 88,
+    "name": "Yong Ken Vui",
+    "country": "MAS",
+    "duv_id": "2712786",
+    "rts_id": "115355",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Vui, Brian",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 89,
+    "name": "Beng Siong Lee",
+    "country": "MAS",
+    "duv_id": "1055557",
+    "rts_id": "105234",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 9
+    },
+    "duv": {
+      "name": "Lee, Beng-Seng",
+      "nat": "MAS",
+      "span": "2018-2024",
+      "events": 9
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 3,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 90,
+    "name": "Blanka Chin Ee Wong",
+    "country": "MAS",
+    "duv_id": "1020766",
+    "rts_id": "109955",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 7
+    },
+    "duv": {
+      "name": "Wong, Aeland",
+      "nat": "MAS",
+      "span": "2017-2025",
+      "events": 10
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 93,
+    "name": "Rex Suner",
+    "country": "PHI",
+    "duv_id": "2393667",
+    "rts_id": "102558",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 8
+    },
+    "duv": {
+      "name": "Suner, Rex",
+      "nat": "PHI",
+      "span": "2024-2026",
+      "events": 6
+    },
+    "result": "duv_ok_rts_unclear"
+  },
+  {
+    "id": 99,
+    "name": "Md Firdaus Bin Haji Baka",
+    "country": "BRU",
+    "duv_id": "924365",
+    "rts_id": "103244",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Brunei",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Bakar, Mohd. Faizulkarnain",
+      "nat": "BRU",
+      "span": "2017-2018",
+      "events": 4
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 108,
+    "name": "Voo Tze Fung",
+    "country": "MAS",
+    "duv_id": "885008",
+    "rts_id": "101767",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Hong Kong",
+      "gender": "F",
+      "race_mentions": 3
+    },
+    "duv": {
+      "name": "Fung, Voo-Tze",
+      "nat": "MAS",
+      "span": "2016-2016",
+      "events": 2
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 109,
+    "name": "Yan Coquilla",
+    "country": "PHI",
+    "duv_id": "2710322",
+    "rts_id": "100357",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "China",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Coquilla, Garry",
+      "nat": "PHI",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 110,
+    "name": "Lau Say Niong",
+    "country": "MAS",
+    "duv_id": "2697580",
+    "rts_id": "104617",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 15
+    },
+    "duv": {
+      "name": "Lau, Alvin",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 112,
+    "name": "Abdul Rasyid Mohd Salehuddin",
+    "country": "MAS",
+    "duv_id": "2249635",
+    "rts_id": "119110",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 8
+    },
+    "duv": {
+      "name": "Salehuddin, Lokman",
+      "nat": "MAS",
+      "span": "2024-2024",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 113,
+    "name": "Calvin Poh Swee Tin",
+    "country": "MAS",
+    "duv_id": "2683574",
+    "rts_id": "115093",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 4
+    },
+    "duv": {
+      "name": "Tin, Chin-Pau",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 116,
+    "name": "Chiang Lee Mien",
+    "country": "MAS",
+    "duv_id": "2719984",
+    "rts_id": "101137",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Mien, Oei Kian",
+      "nat": "INA",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 121,
+    "name": "Jose Xavier Dondo",
+    "country": "PHI",
+    "duv_id": "2398797",
+    "rts_id": "112368",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 3
+    },
+    "duv": {
+      "name": "Jose, Alberto David",
+      "nat": "PHI",
+      "span": "2025-2026",
+      "events": 4
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 124,
+    "name": "Lim Chee Lai",
+    "country": "MAS",
+    "duv_id": "2695438",
+    "rts_id": "117677",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Lai, Chee-Hang",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 3,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 125,
+    "name": "Miguel Bundad III",
+    "country": "PHI",
+    "duv_id": "2701178",
+    "rts_id": "121781",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 5
+    },
+    "duv": {
+      "name": "Miguel, Blaise San",
+      "nat": "PHI",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 145,
+    "name": "Dolly Joy",
+    "country": "PHI",
+    "duv_id": "2702455",
+    "rts_id": "121562",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Singapore",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Joy, Bangis Daffodil",
+      "nat": "PHI",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 159,
+    "name": "Riza Laurene Inso",
+    "country": "PHI",
+    "duv_id": "2399904",
+    "rts_id": "105956",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Insoy, Jan King",
+      "nat": "PHI",
+      "span": "2024-2025",
+      "events": 4
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 160,
+    "name": "Tracy Liew Nyuk Fun",
+    "country": "MAS",
+    "duv_id": "1648044",
+    "rts_id": "101478",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 3
+    },
+    "duv": {
+      "name": "Fun, Yoon-Fh",
+      "nat": "MAS",
+      "span": "2003-2003",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 161,
+    "name": "Tran Nguyen Bao Long",
+    "country": "VIE",
+    "duv_id": "2400961",
+    "rts_id": "101750",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Vietnam",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Long, Aaron",
+      "nat": "USA",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 162,
+    "name": "Zainal Ariffin",
+    "country": "MAS",
+    "duv_id": "2686778",
+    "rts_id": "114103",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Ariffin, Abdul Rahim",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 163,
+    "name": "Zenia Yevgeni",
+    "country": "PHI",
+    "duv_id": "190829",
+    "rts_id": "100863",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Kazakhstan",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Zenia, Boudjemaa",
+      "nat": "ALG",
+      "span": "2011-2011",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 169,
+    "name": "Hasmali Hj Asli",
+    "country": "BRU",
+    "duv_id": "58137",
+    "rts_id": "103284",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Brunei",
+      "gender": "M",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Asli, Armand",
+      "nat": "FRA",
+      "span": "2009-2019",
+      "events": 33
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 173,
+    "name": "Shawn Yong",
+    "country": "MAS",
+    "duv_id": "1241037",
+    "rts_id": "111969",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "China",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Yong, Chan-Ling",
+      "nat": "MAS",
+      "span": "2018-2025",
+      "events": 12
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 175,
+    "name": "Kok Eng Lee",
+    "country": "MAS",
+    "duv_id": "2417606",
+    "rts_id": "115362",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 4
+    },
+    "duv": {
+      "name": "Lee, Kok-Cheng",
+      "nat": "MAS",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 3,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 219,
+    "name": "Kah How Lim",
+    "country": "MAS",
+    "duv_id": "2384528",
+    "rts_id": "101111",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 7
+    },
+    "duv": {
+      "name": "Lim, Kah-Chuan",
+      "nat": "MAS",
+      "span": "2025-2025",
+      "events": 2
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 223,
+    "name": "Erika Chay Yin Heng",
+    "country": "MAS",
+    "duv_id": "1828037",
+    "rts_id": "112019",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Indonesia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Heng, Chay-Yin",
+      "nat": "MAS",
+      "span": "2023-2026",
+      "events": 12
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 232,
+    "name": "MD Yusof Bin Abu Bakar",
+    "country": "MAS",
+    "duv_id": "2698203",
+    "rts_id": "103244",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Brunei",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Bakar, Mahadi",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 235,
+    "name": "Mohammad Azrol Bin Mohammad Hanaf",
+    "country": "MAS",
+    "duv_id": "2682964",
+    "rts_id": "119324",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "",
+      "gender": "M",
+      "race_mentions": 0
+    },
+    "duv": {
+      "name": "Hanaffi, Nurhelmee Hamzah",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 241,
+    "name": "Aimee Joyce Navarro",
+    "country": "PHI",
+    "duv_id": "2318124",
+    "rts_id": "106101",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "F",
+      "race_mentions": 4
+    },
+    "duv": {
+      "name": "Navarro, Aimee Joyce",
+      "nat": "PHI",
+      "span": "2024-2025",
+      "events": 6
+    },
+    "result": "duv_ok_rts_unclear"
+  },
+  {
+    "id": 250,
+    "name": "Kris Van Daele",
+    "country": "BEL",
+    "duv_id": "655408",
+    "rts_id": "121992",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Belgium",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Daele, Jean-Marc",
+      "nat": "BEL",
+      "span": "2015-2019",
+      "events": 15
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 251,
+    "name": "Wong Wei Wei",
+    "country": "MAS",
+    "duv_id": "1710517",
+    "rts_id": "115407",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Wei, Alyssa",
+      "nat": "USA",
+      "span": "2022-2024",
+      "events": 9
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 256,
+    "name": "Christine Salazar",
+    "country": "PHI",
+    "duv_id": "663372",
+    "rts_id": "101144",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "F",
+      "race_mentions": 10
+    },
+    "duv": {
+      "name": "Salazar, Christine Ruth",
+      "nat": "PHI",
+      "span": "2015-2024",
+      "events": 21
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 2,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  },
+  {
+    "id": 258,
+    "name": "Dony Anak Bulang",
+    "country": "PHI",
+    "duv_id": "2159647",
+    "rts_id": "119311",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "",
+      "gender": "M",
+      "race_mentions": 0
+    },
+    "duv": {
+      "name": "Bulang, Dony Anak",
+      "nat": "MAS",
+      "span": "2024-2026",
+      "events": 9
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 269,
+    "name": "Roan Biguasen",
+    "country": "PHI",
+    "duv_id": "2598163",
+    "rts_id": "121318",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "F",
+      "race_mentions": 7
+    },
+    "duv": {
+      "name": "Roan, Alex",
+      "nat": "AUS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 274,
+    "name": "Alexsander Balanga",
+    "country": "PHI",
+    "duv_id": "1296761",
+    "rts_id": "118668",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Balanga, Alexsander",
+      "nat": "MAS",
+      "span": "2019-2026",
+      "events": 21
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 287,
+    "name": "JS Leong",
+    "country": "MAS",
+    "duv_id": "2685095",
+    "rts_id": "104533",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "F",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Leong, Ang-Chin",
+      "nat": "MAS",
+      "span": "2026-2026",
+      "events": 2
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 288,
+    "name": "Jason Lu Jih Zheng",
+    "country": "MAS",
+    "duv_id": "2154248",
+    "rts_id": "108789",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "China",
+      "gender": "F",
+      "race_mentions": 2
+    },
+    "duv": {
+      "name": "Zheng, Jason",
+      "nat": "AUS",
+      "span": "2024-2024",
+      "events": 2
+    },
+    "result": "unclear"
+  },
+  {
+    "id": 291,
+    "name": "Ton Yeng",
+    "country": "PHI",
+    "duv_id": "2393061",
+    "rts_id": "107973",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 18
+    },
+    "duv": {
+      "name": "Tonacao, Jr",
+      "nat": "PHI",
+      "span": "2024-2025",
+      "events": 4
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 296,
+    "name": "Aleksis Capilli",
+    "country": "PHI",
+    "duv_id": "1582674",
+    "rts_id": "100254",
+    "before": "guess_weak",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 14
+    },
+    "duv": {
+      "name": "Capilli, Paul",
+      "nat": "AUS",
+      "span": "2021-2025",
+      "events": 9
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 300,
+    "name": "Bhert Orpiada",
+    "country": "PHI",
+    "duv_id": "938677",
+    "rts_id": "103441",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "M",
+      "race_mentions": 5
+    },
+    "duv": {
+      "name": "Orpiada, Hilbert",
+      "nat": "PHI",
+      "span": "2017-2025",
+      "events": 18
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 320,
+    "name": "Julieann Morales",
+    "country": "PHI",
+    "duv_id": "2161016",
+    "rts_id": "119158",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Philippines",
+      "gender": "F",
+      "race_mentions": 6
+    },
+    "duv": {
+      "name": "Morales, Carlo Miguel",
+      "nat": "PHI",
+      "span": "2023-2026",
+      "events": 4
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 322,
+    "name": "Yong Chee Shion",
+    "country": "MAS",
+    "duv_id": "1241037",
+    "rts_id": "122447",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Malaysia",
+      "gender": "M",
+      "race_mentions": 1
+    },
+    "duv": {
+      "name": "Yong, Chan-Ling",
+      "nat": "MAS",
+      "span": "2018-2025",
+      "events": 12
+    },
+    "result": "suspect"
+  },
+  {
+    "id": 324,
+    "name": "Chin Chin Lee",
+    "country": "SGP",
+    "duv_id": "1220518",
+    "rts_id": "119126",
+    "before": "guess",
+    "rts": {
+      "name": "",
+      "nat": "Singapore",
+      "gender": "F",
+      "race_mentions": 3
+    },
+    "duv": {
+      "name": "Lee, Chin-Chin",
+      "nat": "SGP",
+      "span": "2018-2026",
+      "events": 21
+    },
+    "result": "promoted",
+    "scores": {
+      "atm_rts": 2,
+      "atm_duv": 2,
+      "rts_duv": 0,
+      "nat_ok": true
+    }
+  }
+]

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.wrangler/
+cf-dist/
+*.db-wal
+*.db-shm
+.DS_Store
+Thumbs.db
+*.xlsx
+*.bin
+scripts/_tmp_*.py
+scripts/_peek_*.py

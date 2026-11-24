@@ -1,0 +1,3585 @@
+[
+  {
+    "rts_result_id": 1,
+    "name": "Beach Bunch's Trail Challenge",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Beach Bunch's Trail Challenge 42km",
+    "header": "Beach Bunch's Trail Challenge 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1",
+    "finisher_count": 55,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2,
+    "name": "Ultra Trail Hong Kong",
+    "distances": "170km",
+    "title": "Asia Trail Master Series | Ultra Trail Hong Kong 170km",
+    "header": "Ultra Trail Hong Kong 170km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2",
+    "finisher_count": 48,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3,
+    "name": "Wild Elephant Trail",
+    "distances": "210km",
+    "title": "Asia Trail Master Series | Wild Elephant Trail 210km",
+    "header": "Wild Elephant Trail 210km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3",
+    "finisher_count": 27,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 5,
+    "name": "Korea 50",
+    "distances": "59km",
+    "title": "Asia Trail Master Series | Korea 50 59km",
+    "header": "Korea 50 59km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/5",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/5",
+    "finisher_count": 150,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6,
+    "name": "Malaysia Eco 100",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Malaysia Eco 100 50km",
+    "header": "Malaysia Eco 100 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6",
+    "finisher_count": 57,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 7,
+    "name": "Tengri Ultra Trail",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Tengri Ultra Trail 70km",
+    "header": "Tengri Ultra Trail 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/7",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/7",
+    "finisher_count": 25,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 8,
+    "name": "Tsaigu Tangsi Plus",
+    "distances": "82km",
+    "title": "Asia Trail Master Series | Tsaigu Tangsi Plus 82km",
+    "header": "Tsaigu Tangsi Plus 82km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/8",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/8",
+    "finisher_count": 81,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9,
+    "name": "UT Wenchuan",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | UT Wenchuan 50km",
+    "header": "UT Wenchuan 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9",
+    "finisher_count": 79,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10,
+    "name": "Ijen Trail Running",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Ijen Trail Running 70km",
+    "header": "Ijen Trail Running 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10",
+    "finisher_count": 40,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12,
+    "name": "The Last Secret",
+    "distances": "200km",
+    "title": "Asia Trail Master Series | The Last Secret 200km",
+    "header": "The Last Secret 200km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12",
+    "finisher_count": 37,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13,
+    "name": "Cordillera Mountain Ultra",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Cordillera Mountain Ultra 50km",
+    "header": "Cordillera Mountain Ultra 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13",
+    "finisher_count": 118,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 14,
+    "name": "Echigo Country Trail",
+    "distances": "52km",
+    "title": "Asia Trail Master Series | Echigo Country Trail 52km",
+    "header": "Echigo Country Trail 52km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/14",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/14",
+    "finisher_count": 177,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 15,
+    "name": "Rinjani 100",
+    "distances": "36km",
+    "title": "Asia Trail Master Series | Rinjani 100 36km",
+    "header": "Rinjani 100 36km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/15",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/15",
+    "finisher_count": 53,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 18,
+    "name": "Merapoh Trail",
+    "distances": "60km",
+    "title": "Asia Trail Master Series | Merapoh Trail 60km",
+    "header": "Merapoh Trail 60km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/18",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/18",
+    "finisher_count": 125,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20,
+    "name": "Mongolia Sunrise 2 Sunset",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Mongolia Sunrise 2 Sunset 42km",
+    "header": "Mongolia Sunrise 2 Sunset 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20",
+    "finisher_count": 43,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21,
+    "name": "Ultra Trail Hong Kong",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultra Trail Hong Kong 100km",
+    "header": "Ultra Trail Hong Kong 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21",
+    "finisher_count": 161,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22,
+    "name": "Ultra Trail Hong Kong",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Ultra Trail Hong Kong 50km",
+    "header": "Ultra Trail Hong Kong 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22",
+    "finisher_count": 37,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23,
+    "name": "Malaysia Eco 100",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Malaysia Eco 100 100km",
+    "header": "Malaysia Eco 100 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23",
+    "finisher_count": 24,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 24,
+    "name": "Malaysia Eco 100",
+    "distances": "160km",
+    "title": "Asia Trail Master Series | Malaysia Eco 100 160km",
+    "header": "Malaysia Eco 100 160km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/24",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/24",
+    "finisher_count": 8,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 25,
+    "name": "Tengri Ultra Trail",
+    "distances": "35km",
+    "title": "Asia Trail Master Series | Tengri Ultra Trail 35km",
+    "header": "Tengri Ultra Trail 35km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/25",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/25",
+    "finisher_count": 91,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 26,
+    "name": "Tsaigu Tangsi Plus",
+    "distances": "62km",
+    "title": "Asia Trail Master Series | Tsaigu Tangsi Plus 62km",
+    "header": "Tsaigu Tangsi Plus 62km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/26",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/26",
+    "finisher_count": 98,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 27,
+    "name": "Ijen Trail Running",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Ijen Trail Running 42km",
+    "header": "Ijen Trail Running 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/27",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/27",
+    "finisher_count": 55,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 28,
+    "name": "Rinjani 100",
+    "distances": "60km",
+    "title": "Asia Trail Master Series | Rinjani 100 60km",
+    "header": "Rinjani 100 60km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/28",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/28",
+    "finisher_count": 14,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 29,
+    "name": "Rinjani 100",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Rinjani 100 100km",
+    "header": "Rinjani 100 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/29",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/29",
+    "finisher_count": 1,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 30,
+    "name": "Merapoh Trail",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Merapoh Trail 100km",
+    "header": "Merapoh Trail 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/30",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/30",
+    "finisher_count": 56,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 31,
+    "name": "Mongolia Sunrise 2 Sunset",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Mongolia Sunrise 2 Sunset 100km",
+    "header": "Mongolia Sunrise 2 Sunset 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/31",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/31",
+    "finisher_count": 15,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 32,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/32",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/32",
+    "finisher_count": 34,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 33,
+    "name": "Ultra Trail Mount Jiri",
+    "distances": "50k",
+    "title": "Asia Trail Master Series | Ultra Trail Mount Jiri 50k",
+    "header": "Ultra Trail Mount Jiri 50k",
+    "url": "https://m.racetimingsolutions.com/rankings/result/33",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/33",
+    "finisher_count": 138,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 34,
+    "name": "MesaStila Peaks Challenge",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | MesaStila Peaks Challenge 100km",
+    "header": "MesaStila Peaks Challenge 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/34",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/34",
+    "finisher_count": 28,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 35,
+    "name": "Mount Falaza Trail Ultra",
+    "distances": "50k",
+    "title": "Asia Trail Master Series | Mount Falaza Trail Ultra 50k",
+    "header": "Mount Falaza Trail Ultra 50k",
+    "url": "https://m.racetimingsolutions.com/rankings/result/35",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/35",
+    "finisher_count": 11,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 36,
+    "name": "Ultra Trail Jeju",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultra Trail Jeju 100km",
+    "header": "Ultra Trail Jeju 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/36",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/36",
+    "finisher_count": 20,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 38,
+    "name": "MesaStila Peaks Challenge",
+    "distances": "65km",
+    "title": "Asia Trail Master Series | MesaStila Peaks Challenge 65km",
+    "header": "MesaStila Peaks Challenge 65km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/38",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/38",
+    "finisher_count": 46,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 39,
+    "name": "MesaStila Peaks Challenge",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | MesaStila Peaks Challenge 42km",
+    "header": "MesaStila Peaks Challenge 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/39",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/39",
+    "finisher_count": 35,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 40,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 70km",
+    "header": "Vietnam Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/40",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/40",
+    "finisher_count": 106,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 41,
+    "name": "Ultra Trail Mapawa 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Ultra Trail Mapawa 50 km",
+    "header": "Ultra Trail Mapawa 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/41",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/41",
+    "finisher_count": 53,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 42,
+    "name": "HK168",
+    "distances": "168km",
+    "title": "Asia Trail Master Series | HK168 168km",
+    "header": "HK168 168km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/42",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/42",
+    "finisher_count": 27,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 43,
+    "name": "Bromo Tengger Semeru Ultra 170",
+    "distances": "",
+    "title": "Asia Trail Master Series | Bromo Tengger Semeru Ultra 170",
+    "header": "Bromo Tengger Semeru Ultra 170",
+    "url": "https://m.racetimingsolutions.com/rankings/result/43",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/43",
+    "finisher_count": 5,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 44,
+    "name": "CM 50 Ultra",
+    "distances": "83km",
+    "title": "Asia Trail Master Series | CM 50 Ultra 83km",
+    "header": "CM 50 Ultra 83km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/44",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/44",
+    "finisher_count": 99,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 45,
+    "name": "The Punisher",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | The Punisher 80km",
+    "header": "The Punisher 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/45",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/45",
+    "finisher_count": 9,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 46,
+    "name": "UT Panoramic 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | UT Panoramic 100 miles",
+    "header": "UT Panoramic 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/46",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/46",
+    "finisher_count": 18,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 47,
+    "name": "UT Panoramic",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | UT Panoramic 100km",
+    "header": "UT Panoramic 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/47",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/47",
+    "finisher_count": 42,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 50,
+    "name": "Tahura Trail 42 km",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Tahura Trail 42 km",
+    "header": "Tahura Trail 42 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/50",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/50",
+    "finisher_count": 307,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 51,
+    "name": "Rizal Mountain Run 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Rizal Mountain Run 50 km",
+    "header": "Rizal Mountain Run 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/51",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/51",
+    "finisher_count": 49,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 61,
+    "name": "Coast To Coast Night Trail Ultra 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Coast To Coast Night Trail Ultra 70 km",
+    "header": "Coast To Coast Night Trail Ultra 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/61",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/61",
+    "finisher_count": 35,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 62,
+    "name": "Unseen Koh Chang 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Unseen Koh Chang 100 km",
+    "header": "Unseen Koh Chang 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/62",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/62",
+    "finisher_count": 45,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 63,
+    "name": "Beach Bunch Trail Challenge 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Beach Bunch Trail Challenge 100 km",
+    "header": "Beach Bunch Trail Challenge 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/63",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/63",
+    "finisher_count": 40,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 64,
+    "name": "Cordillera Mountain Ultra",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Cordillera Mountain Ultra 50km",
+    "header": "Cordillera Mountain Ultra 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/64",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/64",
+    "finisher_count": 138,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 65,
+    "name": "Beach Bunch Trail Challenge 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Beach Bunch Trail Challenge 50 km",
+    "header": "Beach Bunch Trail Challenge 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/65",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/65",
+    "finisher_count": 177,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 88,
+    "name": "Unseen Koh Chang 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Unseen Koh Chang 70 km",
+    "header": "Unseen Koh Chang 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/88",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/88",
+    "finisher_count": 84,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 89,
+    "name": "Bromo Tengger Semeru Ultra 100",
+    "distances": "",
+    "title": "Asia Trail Master Series | Bromo Tengger Semeru Ultra 100",
+    "header": "Bromo Tengger Semeru Ultra 100",
+    "url": "https://m.racetimingsolutions.com/rankings/result/89",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/89",
+    "finisher_count": 20,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 90,
+    "name": "Bromo Tengger Semeru Ultra 70",
+    "distances": "",
+    "title": "Asia Trail Master Series | Bromo Tengger Semeru Ultra 70",
+    "header": "Bromo Tengger Semeru Ultra 70",
+    "url": "https://m.racetimingsolutions.com/rankings/result/90",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/90",
+    "finisher_count": 66,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 91,
+    "name": "CM 50 Ultra",
+    "distances": "60km",
+    "title": "Asia Trail Master Series | CM 50 Ultra 60km",
+    "header": "CM 50 Ultra 60km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/91",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/91",
+    "finisher_count": 41,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 92,
+    "name": "HK168",
+    "distances": "63km",
+    "title": "Asia Trail Master Series | HK168 63km",
+    "header": "HK168 63km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/92",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/92",
+    "finisher_count": 162,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 93,
+    "name": "HK168",
+    "distances": "93km",
+    "title": "Asia Trail Master Series | HK168 93km",
+    "header": "HK168 93km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/93",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/93",
+    "finisher_count": 84,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 94,
+    "name": "The Punisher",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | The Punisher 50km",
+    "header": "The Punisher 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/94",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/94",
+    "finisher_count": 23,
+    "years": [
+      2016
+    ],
+    "year": 2016,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 95,
+    "name": "Race Full Name Event",
+    "distances": "",
+    "title": "Asia Trail Master Series | Race Full Name Event",
+    "header": "Race Full Name Event",
+    "url": "https://m.racetimingsolutions.com/rankings/result/95",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/95",
+    "finisher_count": 0,
+    "years": [],
+    "year": null,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 177,
+    "name": "Sungai Menyala Forest Trail",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Sungai Menyala Forest Trail 50km",
+    "header": "Sungai Menyala Forest Trail 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/177",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/177",
+    "finisher_count": 80,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 618,
+    "name": "Korea 50",
+    "distances": "59km",
+    "title": "Asia Trail Master Series | Korea 50 59km",
+    "header": "Korea 50 59km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/618",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/618",
+    "finisher_count": 360,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1072,
+    "name": "Mt Apo Sky Race 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Mt Apo Sky Race 70 km",
+    "header": "Mt Apo Sky Race 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1072",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1072",
+    "finisher_count": 45,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1383,
+    "name": "Penang Eco 100 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Penang Eco 100 100 km",
+    "header": "Penang Eco 100 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1383",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1383",
+    "finisher_count": 78,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1461,
+    "name": "Penang Eco 100 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | Penang Eco 100 100 miles",
+    "header": "Penang Eco 100 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1461",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1461",
+    "finisher_count": 16,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1526,
+    "name": "Ijen Trailrunning 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Ijen Trailrunning 70 km",
+    "header": "Ijen Trailrunning 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1526",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1526",
+    "finisher_count": 27,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1590,
+    "name": "Vietnam Jungle Marathon 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Jungle Marathon 70 km",
+    "header": "Vietnam Jungle Marathon 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1590",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1590",
+    "finisher_count": 32,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1623,
+    "name": "Echigo Country Trail 52 km",
+    "distances": "52km",
+    "title": "Asia Trail Master Series | Echigo Country Trail 52 km",
+    "header": "Echigo Country Trail 52 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1623",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1623",
+    "finisher_count": 241,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1888,
+    "name": "Tam Dao Mountain Trail 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Tam Dao Mountain Trail 70 km",
+    "header": "Tam Dao Mountain Trail 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1888",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1888",
+    "finisher_count": 24,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 1889,
+    "name": "The Magnificent Merapoh Trail",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | The Magnificent Merapoh Trail 100km",
+    "header": "The Magnificent Merapoh Trail 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/1889",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/1889",
+    "finisher_count": 182,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2071,
+    "name": "The Magnificent Merapoh Trail",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | The Magnificent Merapoh Trail 70km",
+    "header": "The Magnificent Merapoh Trail 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2071",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2071",
+    "finisher_count": 185,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2425,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2425",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2425",
+    "finisher_count": 54,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2540,
+    "name": "Vietnam Mountain Marathon 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 70 km",
+    "header": "Vietnam Mountain Marathon 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2540",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2540",
+    "finisher_count": 31,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2571,
+    "name": "Mesastila Peaks Challenge 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Mesastila Peaks Challenge 100 km",
+    "header": "Mesastila Peaks Challenge 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2571",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2571",
+    "finisher_count": 40,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2611,
+    "name": "Mesastila Peaks Challenge 65 km",
+    "distances": "65km",
+    "title": "Asia Trail Master Series | Mesastila Peaks Challenge 65 km",
+    "header": "Mesastila Peaks Challenge 65 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2611",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2611",
+    "finisher_count": 41,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2612,
+    "name": "Ultra Trail Chiang Rai",
+    "distances": "122km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 122km",
+    "header": "Ultra Trail Chiang Rai 122km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2612",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2612",
+    "finisher_count": 61,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2672,
+    "name": "Ultra Trail Chiang Rai 66 km",
+    "distances": "66km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 66 km",
+    "header": "Ultra Trail Chiang Rai 66 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2672",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2672",
+    "finisher_count": 70,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2742,
+    "name": "Ultra Trail Nan 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultra Trail Nan 100 km",
+    "header": "Ultra Trail Nan 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2742",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2742",
+    "finisher_count": 68,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2811,
+    "name": "Ultra Trail Mapawa 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Ultra Trail Mapawa 50 km",
+    "header": "Ultra Trail Mapawa 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2811",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2811",
+    "finisher_count": 87,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2898,
+    "name": "BTS Ultra 100",
+    "distances": "170km",
+    "title": "Asia Trail Master Series | BTS Ultra 100 170km",
+    "header": "BTS Ultra 100 170km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2898",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2898",
+    "finisher_count": 10,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2908,
+    "name": "BTS Ultra 100",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | BTS Ultra 100 100km",
+    "header": "BTS Ultra 100 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2908",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2908",
+    "finisher_count": 69,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 2977,
+    "name": "BTS Ultra 100",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | BTS Ultra 100 70km",
+    "header": "BTS Ultra 100 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/2977",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/2977",
+    "finisher_count": 15,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3072,
+    "name": "Ijen Trailrunning",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ijen Trailrunning 100km",
+    "header": "Ijen Trailrunning 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3072",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3072",
+    "finisher_count": 22,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3242,
+    "name": "HK 168 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | HK 168 100 miles",
+    "header": "HK 168 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3242",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3242",
+    "finisher_count": 100,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3342,
+    "name": "Ultra-Trail Panoramic 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | Ultra-Trail Panoramic 100 miles",
+    "header": "Ultra-Trail Panoramic 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3342",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3342",
+    "finisher_count": 89,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3431,
+    "name": "Ultra-Trail Panoramic 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultra-Trail Panoramic 100 km",
+    "header": "Ultra-Trail Panoramic 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3431",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3431",
+    "finisher_count": 114,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3801,
+    "name": "CM50 Ultra 82 km",
+    "distances": "82km",
+    "title": "Asia Trail Master Series | CM50 Ultra 82 km",
+    "header": "CM50 Ultra 82 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3801",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3801",
+    "finisher_count": 128,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3929,
+    "name": "CM50 Ultra 60 km",
+    "distances": "60km",
+    "title": "Asia Trail Master Series | CM50 Ultra 60 km",
+    "header": "CM50 Ultra 60 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3929",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3929",
+    "finisher_count": 20,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 3951,
+    "name": "Izu Trail Journey 72 km",
+    "distances": "72km",
+    "title": "Asia Trail Master Series | Izu Trail Journey 72 km",
+    "header": "Izu Trail Journey 72 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/3951",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/3951",
+    "finisher_count": 246,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4197,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 70km",
+    "header": "Vietnam Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4197",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4197",
+    "finisher_count": 2,
+    "years": [
+      2017
+    ],
+    "year": 2017,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4563,
+    "name": "Rizal Mountain Run 53 km",
+    "distances": "53km",
+    "title": "Asia Trail Master Series | Rizal Mountain Run 53 km",
+    "header": "Rizal Mountain Run 53 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4563",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4563",
+    "finisher_count": 54,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4617,
+    "name": "Pilipinas Akyathlon 46 km",
+    "distances": "46km",
+    "title": "Asia Trail Master Series | Pilipinas Akyathlon 46 km",
+    "header": "Pilipinas Akyathlon 46 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4617",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4617",
+    "finisher_count": 88,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4705,
+    "name": "UT Koh Chang 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | UT Koh Chang 100 km",
+    "header": "UT Koh Chang 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4705",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4705",
+    "finisher_count": 67,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4869,
+    "name": "UT Koh Chang 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | UT Koh Chang 70 km",
+    "header": "UT Koh Chang 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4869",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4869",
+    "finisher_count": 97,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 4966,
+    "name": "Tahura Trail 42 km",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Tahura Trail 42 km",
+    "header": "Tahura Trail 42 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/4966",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/4966",
+    "finisher_count": 365,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 5331,
+    "name": "9 Dragons Ultra 132",
+    "distances": "",
+    "title": "Asia Trail Master Series | 9 Dragons Ultra 132",
+    "header": "9 Dragons Ultra 132",
+    "url": "https://m.racetimingsolutions.com/rankings/result/5331",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/5331",
+    "finisher_count": 46,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 5377,
+    "name": "9 Dragons Ultra 82 km",
+    "distances": "82km",
+    "title": "Asia Trail Master Series | 9 Dragons Ultra 82 km",
+    "header": "9 Dragons Ultra 82 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/5377",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/5377",
+    "finisher_count": 34,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 5411,
+    "name": "Cordillera Mountain Ultra 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Cordillera Mountain Ultra 50 km",
+    "header": "Cordillera Mountain Ultra 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/5411",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/5411",
+    "finisher_count": 271,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 5856,
+    "name": "Beach Bunch Trail Challenge 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Beach Bunch Trail Challenge 50 km",
+    "header": "Beach Bunch Trail Challenge 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/5856",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/5856",
+    "finisher_count": 92,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6077,
+    "name": "Sungai Menyala Forest Trail 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Sungai Menyala Forest Trail 50 km",
+    "header": "Sungai Menyala Forest Trail 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6077",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6077",
+    "finisher_count": 129,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6078,
+    "name": "Vietnam Jungle Marathon 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Jungle Marathon 70 km",
+    "header": "Vietnam Jungle Marathon 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6078",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6078",
+    "finisher_count": 62,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6140,
+    "name": "Ultimate Tsaigu",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultimate Tsaigu 100km",
+    "header": "Ultimate Tsaigu 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6140",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6140",
+    "finisher_count": 27,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6187,
+    "name": "Mt Apo Sky Race 75 km",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Mt Apo Sky Race 75 km",
+    "header": "Mt Apo Sky Race 75 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6187",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6187",
+    "finisher_count": 20,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6207,
+    "name": "Korea 58 km",
+    "distances": "50k",
+    "title": "Asia Trail Master Series | Korea 50k 58 km",
+    "header": "Korea 50k 58 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6207",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6207",
+    "finisher_count": 251,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6496,
+    "name": "Beach Bunch Trail Challenge 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Beach Bunch Trail Challenge 100 km",
+    "header": "Beach Bunch Trail Challenge 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6496",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6496",
+    "finisher_count": 38,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6576,
+    "name": "Penang Eco 100 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | Penang Eco 100 100 miles",
+    "header": "Penang Eco 100 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6576",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6576",
+    "finisher_count": 21,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6717,
+    "name": "Penang Eco 100 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Penang Eco 100 100 km",
+    "header": "Penang Eco 100 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6717",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6717",
+    "finisher_count": 144,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6861,
+    "name": "Dalat Ultra Trail 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Dalat Ultra Trail 70 km",
+    "header": "Dalat Ultra Trail 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6861",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6861",
+    "finisher_count": 136,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6997,
+    "name": "Kushigata Wind Trail 30 km",
+    "distances": "30km",
+    "title": "Asia Trail Master Series | Kushigata Wind Trail 30 km",
+    "header": "Kushigata Wind Trail 30 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6997",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6997",
+    "finisher_count": 55,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 6998,
+    "name": "Echigo Country Trail 53 km",
+    "distances": "53km",
+    "title": "Asia Trail Master Series | Echigo Country Trail 53 km",
+    "header": "Echigo Country Trail 53 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/6998",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/6998",
+    "finisher_count": 259,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 7257,
+    "name": "Mantra Summits Challenge 75 km",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Mantra Summits Challenge 75 km",
+    "header": "Mantra Summits Challenge 75 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/7257",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/7257",
+    "finisher_count": 22,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 7295,
+    "name": "Magnificent Merapoh Trail 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Magnificent Merapoh Trail 100 km",
+    "header": "Magnificent Merapoh Trail 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/7295",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/7295",
+    "finisher_count": 137,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 7546,
+    "name": "Magnificent Merapoh Trail",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Magnificent Merapoh Trail 70km",
+    "header": "Magnificent Merapoh Trail 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/7546",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/7546",
+    "finisher_count": 114,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 7660,
+    "name": "Borneo TMBT Ultra",
+    "distances": "100K",
+    "title": "Asia Trail Master Series | Borneo TMBT Ultra 100K",
+    "header": "Borneo TMBT Ultra 100K",
+    "url": "https://m.racetimingsolutions.com/rankings/result/7660",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/7660",
+    "finisher_count": 413,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 8636,
+    "name": "Hakuba Trails",
+    "distances": "53km",
+    "title": "Asia Trail Master Series | Hakuba Trails 53km",
+    "header": "Hakuba Trails 53km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/8636",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/8636",
+    "finisher_count": 563,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9276,
+    "name": "Bandung Ultra 100 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Bandung Ultra 100 100 km",
+    "header": "Bandung Ultra 100 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9276",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9276",
+    "finisher_count": 77,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9353,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9353",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9353",
+    "finisher_count": 69,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9588,
+    "name": "Ijen Trailrunning",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ijen Trailrunning 100km",
+    "header": "Ijen Trailrunning 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9588",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9588",
+    "finisher_count": 29,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9617,
+    "name": "Ijen Trailrunning",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Ijen Trailrunning 70km",
+    "header": "Ijen Trailrunning 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9617",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9617",
+    "finisher_count": 54,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9671,
+    "name": "Plataran X Trail Bali",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Plataran X Trail Bali 70km",
+    "header": "Plataran X Trail Bali 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9671",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9671",
+    "finisher_count": 17,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9713,
+    "name": "Tengri Ultra Trail 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Tengri Ultra Trail 70 km",
+    "header": "Tengri Ultra Trail 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9713",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9713",
+    "finisher_count": 25,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9714,
+    "name": "Ultra Trail Chiang Rai 230 km",
+    "distances": "230km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 230 km",
+    "header": "Ultra Trail Chiang Rai 230 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9714",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9714",
+    "finisher_count": 10,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9741,
+    "name": "Ultra Trail Chiang Rai 66 km",
+    "distances": "66km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 66 km",
+    "header": "Ultra Trail Chiang Rai 66 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9741",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9741",
+    "finisher_count": 20,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9761,
+    "name": "Ultra Trail Nan",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ultra Trail Nan 100km",
+    "header": "Ultra Trail Nan 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9761",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9761",
+    "finisher_count": 133,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9894,
+    "name": "Fifty Mapawa 80 km",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | Fifty Mapawa 80 km",
+    "header": "Fifty Mapawa 80 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9894",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9894",
+    "finisher_count": 21,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9915,
+    "name": "Fifty Mapawa 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Fifty Mapawa 50 km",
+    "header": "Fifty Mapawa 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9915",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9915",
+    "finisher_count": 50,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9975,
+    "name": "V Trail 85 km",
+    "distances": "85km",
+    "title": "Asia Trail Master Series | V Trail 85 km",
+    "header": "V Trail 85 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9975",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9975",
+    "finisher_count": 9,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 9984,
+    "name": "Ultra Trail Chiang Rai 122 km",
+    "distances": "122km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 122 km",
+    "header": "Ultra Trail Chiang Rai 122 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/9984",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/9984",
+    "finisher_count": 49,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10033,
+    "name": "CM50 Ultra",
+    "distances": "82km",
+    "title": "Asia Trail Master Series | CM50 Ultra 82km",
+    "header": "CM50 Ultra 82km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10033",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10033",
+    "finisher_count": 161,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10201,
+    "name": "KOTT Singapore 25 km",
+    "distances": "25km",
+    "title": "Asia Trail Master Series | KOTT Singapore 25 km",
+    "header": "KOTT Singapore 25 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10201",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10201",
+    "finisher_count": 30,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10231,
+    "name": "HK168",
+    "distances": "168km",
+    "title": "Asia Trail Master Series | HK168 168km",
+    "header": "HK168 168km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10231",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10231",
+    "finisher_count": 92,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10323,
+    "name": "HK168",
+    "distances": "90km",
+    "title": "Asia Trail Master Series | HK168 90km",
+    "header": "HK168 90km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10323",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10323",
+    "finisher_count": 18,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10340,
+    "name": "Izu Trail Journey 72 km",
+    "distances": "72km",
+    "title": "Asia Trail Master Series | Izu Trail Journey 72 km",
+    "header": "Izu Trail Journey 72 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10340",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10340",
+    "finisher_count": 503,
+    "years": [
+      2018
+    ],
+    "year": 2018,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10560,
+    "name": "Tahura Trail 42 km",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Tahura Trail 42 km",
+    "header": "Tahura Trail 42 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10560",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10560",
+    "finisher_count": 150,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 10925,
+    "name": "Pilipinas Akyathlon",
+    "distances": "49km",
+    "title": "Asia Trail Master Series | Pilipinas Akyathlon 49km",
+    "header": "Pilipinas Akyathlon 49km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/10925",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/10925",
+    "finisher_count": 53,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11078,
+    "name": "9 Dragons Ultra 50-50",
+    "distances": "",
+    "title": "Asia Trail Master Series | 9 Dragons Ultra 50-50",
+    "header": "9 Dragons Ultra 50-50",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11078",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11078",
+    "finisher_count": 68,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11246,
+    "name": "Cordillera Mountain Ultra 47 km",
+    "distances": "47km",
+    "title": "Asia Trail Master Series | Cordillera Mountain Ultra 47 km",
+    "header": "Cordillera Mountain Ultra 47 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11246",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11246",
+    "finisher_count": 124,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11476,
+    "name": "Dalat Ultra Trail 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Dalat Ultra Trail 70 km",
+    "header": "Dalat Ultra Trail 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11476",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11476",
+    "finisher_count": 121,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11597,
+    "name": "Ultra Trail Luang Prabang 96 km",
+    "distances": "96km",
+    "title": "Asia Trail Master Series | Ultra Trail Luang Prabang 96 km",
+    "header": "Ultra Trail Luang Prabang 96 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11597",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11597",
+    "finisher_count": 9,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11606,
+    "name": "Sungai Menyala Forest Trail 50 km",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Sungai Menyala Forest Trail 50 km",
+    "header": "Sungai Menyala Forest Trail 50 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11606",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11606",
+    "finisher_count": 131,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11806,
+    "name": "Mt Apo Sky Race 100 km",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Mt Apo Sky Race 100 km",
+    "header": "Mt Apo Sky Race 100 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11806",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11806",
+    "finisher_count": 81,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11887,
+    "name": "Ultimate Tsaigu 80 km",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | Ultimate Tsaigu 80 km",
+    "header": "Ultimate Tsaigu 80 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11887",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11887",
+    "finisher_count": 28,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11915,
+    "name": "Ultimate Tsaigu 110 km",
+    "distances": "110km",
+    "title": "Asia Trail Master Series | Ultimate Tsaigu 110 km",
+    "header": "Ultimate Tsaigu 110 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11915",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11915",
+    "finisher_count": 53,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11968,
+    "name": "Ultra Trail Luang Prabang",
+    "distances": "61km",
+    "title": "Asia Trail Master Series | Ultra Trail Luang Prabang 61km",
+    "header": "Ultra Trail Luang Prabang 61km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11968",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11968",
+    "finisher_count": 18,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 11986,
+    "name": "Vietnam Jungle Marathon 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Jungle Marathon 70 km",
+    "header": "Vietnam Jungle Marathon 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/11986",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/11986",
+    "finisher_count": 60,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12046,
+    "name": "The Moon 100 103 km",
+    "distances": "103km",
+    "title": "Asia Trail Master Series | The Moon 100 103 km",
+    "header": "The Moon 100 103 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12046",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12046",
+    "finisher_count": 92,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12168,
+    "name": "Echigo Country Trail",
+    "distances": "53km",
+    "title": "Asia Trail Master Series | Echigo Country Trail 53km",
+    "header": "Echigo Country Trail 53km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12168",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12168",
+    "finisher_count": 108,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12276,
+    "name": "Penang Eco 100",
+    "distances": "170km",
+    "title": "Asia Trail Master Series | Penang Eco 100 170km",
+    "header": "Penang Eco 100 170km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12276",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12276",
+    "finisher_count": 36,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12312,
+    "name": "Penang Eco 100",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Penang Eco 100 100km",
+    "header": "Penang Eco 100 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12312",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12312",
+    "finisher_count": 130,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12442,
+    "name": "Mantra Summits Challenge",
+    "distances": "116km",
+    "title": "Asia Trail Master Series | Mantra Summits Challenge 116km",
+    "header": "Mantra Summits Challenge 116km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12442",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12442",
+    "finisher_count": 33,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12475,
+    "name": "Mantra Summits Challenge",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Mantra Summits Challenge 75km",
+    "header": "Mantra Summits Challenge 75km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12475",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12475",
+    "finisher_count": 27,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12502,
+    "name": "Bogd Khan Mountain Trail",
+    "distances": "64km",
+    "title": "Asia Trail Master Series | Bogd Khan Mountain Trail 64km",
+    "header": "Bogd Khan Mountain Trail 64km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12502",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12502",
+    "finisher_count": 46,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12548,
+    "name": "9 Dragons Ultra 89 km",
+    "distances": "89km",
+    "title": "Asia Trail Master Series | 9 Dragons Ultra 89 km",
+    "header": "9 Dragons Ultra 89 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12548",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12548",
+    "finisher_count": 99,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12701,
+    "name": "Magnificent Merapoh Trail",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Magnificent Merapoh Trail 100km",
+    "header": "Magnificent Merapoh Trail 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12701",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12701",
+    "finisher_count": 166,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 12936,
+    "name": "Magnificent Merapoh Trail",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Magnificent Merapoh Trail 70km",
+    "header": "Magnificent Merapoh Trail 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/12936",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/12936",
+    "finisher_count": 97,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13139,
+    "name": "Ijen Trail",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Ijen Trail 100km",
+    "header": "Ijen Trail 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13139",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13139",
+    "finisher_count": 24,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13163,
+    "name": "Borneo TMBT Ultra",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Borneo TMBT Ultra 100km",
+    "header": "Borneo TMBT Ultra 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13163",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13163",
+    "finisher_count": 323,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13844,
+    "name": "Mt Talinis Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Mt Talinis Mountain Marathon 70km",
+    "header": "Mt Talinis Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13844",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13844",
+    "finisher_count": 68,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13912,
+    "name": "Ultra Trail Chiang Rai",
+    "distances": "230km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 230km",
+    "header": "Ultra Trail Chiang Rai 230km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13912",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13912",
+    "finisher_count": 47,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 13960,
+    "name": "Ultra Trail Chiang Rai",
+    "distances": "125km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 125km",
+    "header": "Ultra Trail Chiang Rai 125km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/13960",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/13960",
+    "finisher_count": 93,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 14122,
+    "name": "V Trail Laos 85 km",
+    "distances": "85km",
+    "title": "Asia Trail Master Series | V Trail Laos 85 km",
+    "header": "V Trail Laos 85 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/14122",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/14122",
+    "finisher_count": 11,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 14286,
+    "name": "UT Chiang Mai",
+    "distances": "104km",
+    "title": "Asia Trail Master Series | UT Chiang Mai 104km",
+    "header": "UT Chiang Mai 104km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/14286",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/14286",
+    "finisher_count": 62,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 14350,
+    "name": "Ultra Trail Gold Coast",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Ultra Trail Gold Coast 50km",
+    "header": "Ultra Trail Gold Coast 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/14350",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/14350",
+    "finisher_count": 2,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 15177,
+    "name": "The Punisher",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | The Punisher 80km",
+    "header": "The Punisher 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/15177",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/15177",
+    "finisher_count": 40,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 15786,
+    "name": "Ultra Trail Panoramic",
+    "distances": "160km",
+    "title": "Asia Trail Master Series | Ultra Trail Panoramic 160km",
+    "header": "Ultra Trail Panoramic 160km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/15786",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/15786",
+    "finisher_count": 94,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 15880,
+    "name": "Malaysia Mountain Trail Festival",
+    "distances": "84km",
+    "title": "Asia Trail Master Series | Malaysia Mountain Trail Festival 84km",
+    "header": "Malaysia Mountain Trail Festival 84km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/15880",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/15880",
+    "finisher_count": 268,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16217,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16217",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16217",
+    "finisher_count": 114,
+    "years": [
+      2019
+    ],
+    "year": 2019,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16218,
+    "name": "Tahura Trail",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Tahura Trail 42km",
+    "header": "Tahura Trail 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16218",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16218",
+    "finisher_count": 512,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16747,
+    "name": "EcoTrail AlUIa",
+    "distances": "83km",
+    "title": "Asia Trail Master Series | EcoTrail AlUIa 83km",
+    "header": "EcoTrail AlUIa 83km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16747",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16747",
+    "finisher_count": 16,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16764,
+    "name": "UT Koh Chang",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | UT Koh Chang 100km",
+    "header": "UT Koh Chang 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16764",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16764",
+    "finisher_count": 26,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16797,
+    "name": "Dalat Ultra Trail",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Dalat Ultra Trail 100km",
+    "header": "Dalat Ultra Trail 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16797",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16797",
+    "finisher_count": 23,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16821,
+    "name": "Vietnam Jungle Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Jungle Marathon 70km",
+    "header": "Vietnam Jungle Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16821",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16821",
+    "finisher_count": 28,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 16953,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 70km",
+    "header": "Vietnam Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/16953",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/16953",
+    "finisher_count": 18,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17008,
+    "name": "Izu Trail Journey 70 km",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Izu Trail Journey 70 km",
+    "header": "Izu Trail Journey 70 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17008",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17008",
+    "finisher_count": 30,
+    "years": [
+      2020
+    ],
+    "year": 2020,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17009,
+    "name": "UT Koh Chang",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | UT Koh Chang 100km",
+    "header": "UT Koh Chang 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17009",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17009",
+    "finisher_count": 70,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17079,
+    "name": "UT Koh Chang",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | UT Koh Chang 70km",
+    "header": "UT Koh Chang 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17079",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17079",
+    "finisher_count": 70,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17154,
+    "name": "BUTM",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | BUTM 100km",
+    "header": "BUTM 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17154",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17154",
+    "finisher_count": 62,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17291,
+    "name": "BUTM",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | BUTM 50km",
+    "header": "BUTM 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17291",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17291",
+    "finisher_count": 75,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17366,
+    "name": "Dalat Ultra Trail",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Dalat Ultra Trail 70km",
+    "header": "Dalat Ultra Trail 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17366",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17366",
+    "finisher_count": 73,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17439,
+    "name": "EcoTrail AlUla",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | EcoTrail AlUla 80km",
+    "header": "EcoTrail AlUla 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17439",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17439",
+    "finisher_count": 31,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17470,
+    "name": "Batur Trail Challenge",
+    "distances": "30km",
+    "title": "Asia Trail Master Series | Batur Trail Challenge 30km",
+    "header": "Batur Trail Challenge 30km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17470",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17470",
+    "finisher_count": 69,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17602,
+    "name": "Echigo Country Trail",
+    "distances": "63km",
+    "title": "Asia Trail Master Series | Echigo Country Trail 63km",
+    "header": "Echigo Country Trail 63km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17602",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17602",
+    "finisher_count": 63,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17684,
+    "name": "Mantra Summits Challenge",
+    "distances": "116km",
+    "title": "Asia Trail Master Series | Mantra Summits Challenge 116km",
+    "header": "Mantra Summits Challenge 116km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17684",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17684",
+    "finisher_count": 23,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17707,
+    "name": "Mantra Summits Challenge 75 km",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Mantra Summits Challenge 75 km",
+    "header": "Mantra Summits Challenge 75 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17707",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17707",
+    "finisher_count": 19,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 17726,
+    "name": "Cameron Ultra",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Cameron Ultra 100km",
+    "header": "Cameron Ultra 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/17726",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/17726",
+    "finisher_count": 75,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19023,
+    "name": "The Punisher",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | The Punisher 80km",
+    "header": "The Punisher 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19023",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19023",
+    "finisher_count": 25,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19084,
+    "name": "Jember Hills Classic",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Jember Hills Classic 70km",
+    "header": "Jember Hills Classic 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19084",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19084",
+    "finisher_count": 17,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19101,
+    "name": "Ultra Trail Chiang Mai",
+    "distances": "105km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Mai 105km",
+    "header": "Ultra Trail Chiang Mai 105km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19101",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19101",
+    "finisher_count": 69,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19170,
+    "name": "Ultra Trail Chiang Mai",
+    "distances": "65km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Mai 65km",
+    "header": "Ultra Trail Chiang Mai 65km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19170",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19170",
+    "finisher_count": 75,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19487,
+    "name": "TMBT",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | TMBT 50km",
+    "header": "TMBT 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19487",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19487",
+    "finisher_count": 75,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19562,
+    "name": "Mu Cang Chai Trail",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Mu Cang Chai Trail 50km",
+    "header": "Mu Cang Chai Trail 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19562",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19562",
+    "finisher_count": 48,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19610,
+    "name": "Ferei Dark 45",
+    "distances": "45km",
+    "title": "Asia Trail Master Series | Ferei Dark 45 45km",
+    "header": "Ferei Dark 45 45km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19610",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19610",
+    "finisher_count": 64,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19674,
+    "name": "UTOP",
+    "distances": "105km",
+    "title": "Asia Trail Master Series | UTOP 105km",
+    "header": "UTOP 105km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19674",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19674",
+    "finisher_count": 71,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 19890,
+    "name": "MUSPO 100",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | MUSPO 100 100km",
+    "header": "MUSPO 100 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/19890",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/19890",
+    "finisher_count": 68,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20021,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "162km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 162km",
+    "header": "Vietnam Mountain Marathon 162km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20021",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20021",
+    "finisher_count": 54,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20075,
+    "name": "VJM",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | VJM 70km",
+    "header": "VJM 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20075",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20075",
+    "finisher_count": 62,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20172,
+    "name": "Seoul m",
+    "distances": "100K",
+    "title": "Asia Trail Master Series | Seoul 100K 100km",
+    "header": "Seoul 100K 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20172",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20172",
+    "finisher_count": 36,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20230,
+    "name": "UM Sai Kung",
+    "distances": "58km",
+    "title": "Asia Trail Master Series | UM Sai Kung 58km",
+    "header": "UM Sai Kung 58km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20230",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20230",
+    "finisher_count": 18,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20248,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20248",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20248",
+    "finisher_count": 60,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20329,
+    "name": "UT9P",
+    "distances": "125km",
+    "title": "Asia Trail Master Series | UT9P 125km",
+    "header": "UT9P 125km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20329",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20329",
+    "finisher_count": 16,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20467,
+    "name": "MMTF",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | MMTF 50km",
+    "header": "MMTF 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20467",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20467",
+    "finisher_count": 66,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20533,
+    "name": "MMTF",
+    "distances": "90km",
+    "title": "Asia Trail Master Series | MMTF 90km",
+    "header": "MMTF 90km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20533",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20533",
+    "finisher_count": 92,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20625,
+    "name": "Malnad Ultra",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Malnad Ultra 100km",
+    "header": "Malnad Ultra 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20625",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20625",
+    "finisher_count": 58,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20743,
+    "name": "Cordillera Mountain Ultra",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Cordillera Mountain Ultra 50km",
+    "header": "Cordillera Mountain Ultra 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20743",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20743",
+    "finisher_count": 75,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20818,
+    "name": "Mt Apo Sky Race",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Mt Apo Sky Race 75km",
+    "header": "Mt Apo Sky Race 75km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20818",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20818",
+    "finisher_count": 44,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20862,
+    "name": "Izu Trail Journey",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Izu Trail Journey 70km",
+    "header": "Izu Trail Journey 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20862",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20862",
+    "finisher_count": 41,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 20903,
+    "name": "TMBT",
+    "distances": "109km",
+    "title": "Asia Trail Master Series | TMBT 109km",
+    "header": "TMBT 109km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/20903",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/20903",
+    "finisher_count": 77,
+    "years": [
+      2022
+    ],
+    "year": 2022,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21094,
+    "name": "V Trail 85 km",
+    "distances": "85km",
+    "title": "Asia Trail Master Series | V Trail 85 km",
+    "header": "V Trail 85 km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21094",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21094",
+    "finisher_count": 19,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21151,
+    "name": "Santa Ines Mountain Adventure",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | Santa Ines Mountain Adventure 80km",
+    "header": "Santa Ines Mountain Adventure 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21151",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21151",
+    "finisher_count": 55,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21321,
+    "name": "Lantau 70",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Lantau 70 70km",
+    "header": "Lantau 70 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21321",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21321",
+    "finisher_count": 61,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21382,
+    "name": "Cuc Phuong Jungle Paths",
+    "distances": "42km",
+    "title": "Asia Trail Master Series | Cuc Phuong Jungle Paths 42km",
+    "header": "Cuc Phuong Jungle Paths 42km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21382",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21382",
+    "finisher_count": 43,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21425,
+    "name": "Cuc Phuong Jungle Paths",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Cuc Phuong Jungle Paths 100km",
+    "header": "Cuc Phuong Jungle Paths 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21425",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21425",
+    "finisher_count": 20,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21445,
+    "name": "Dalat Ultra Trail",
+    "distances": "85km",
+    "title": "Asia Trail Master Series | Dalat Ultra Trail 85km",
+    "header": "Dalat Ultra Trail 85km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21445",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21445",
+    "finisher_count": 55,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21500,
+    "name": "Korea m",
+    "distances": "50k",
+    "title": "Asia Trail Master Series | Korea 50k 50km",
+    "header": "Korea 50k 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21500",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21500",
+    "finisher_count": 50,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21608,
+    "name": "Koboi Malaya Trail Classic",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Koboi Malaya Trail Classic 50km",
+    "header": "Koboi Malaya Trail Classic 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21608",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21608",
+    "finisher_count": 45,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21653,
+    "name": "Sierra Madre Trail",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Sierra Madre Trail 75km",
+    "header": "Sierra Madre Trail 75km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21653",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21653",
+    "finisher_count": 59,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21712,
+    "name": "Orang Utan Trail",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Orang Utan Trail 50km",
+    "header": "Orang Utan Trail 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21712",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21712",
+    "finisher_count": 29,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21741,
+    "name": "The Borneo Miler",
+    "distances": "162km",
+    "title": "Asia Trail Master Series | The Borneo Miler 162km",
+    "header": "The Borneo Miler 162km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21741",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21741",
+    "finisher_count": 107,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21848,
+    "name": "Trail of Man",
+    "distances": "55km",
+    "title": "Asia Trail Master Series | Trail of Man 55km",
+    "header": "Trail of Man 55km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21848",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21848",
+    "finisher_count": 37,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21885,
+    "name": "Deep Japan Ultra",
+    "distances": "160km",
+    "title": "Asia Trail Master Series | Deep Japan Ultra 160km",
+    "header": "Deep Japan Ultra 160km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21885",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21885",
+    "finisher_count": 37,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 21922,
+    "name": "Deep Japan Ultra",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | Deep Japan Ultra 80km",
+    "header": "Deep Japan Ultra 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/21922",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/21922",
+    "finisher_count": 38,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22122,
+    "name": "Dieng Trail Run",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Dieng Trail Run 50km",
+    "header": "Dieng Trail Run 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22122",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22122",
+    "finisher_count": 28,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22150,
+    "name": "Mt Daisetsu Trail",
+    "distances": "60km",
+    "title": "Asia Trail Master Series | Mt Daisetsu Trail 60km",
+    "header": "Mt Daisetsu Trail 60km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22150",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22150",
+    "finisher_count": 36,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22186,
+    "name": "MUSPO Bukidnon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | MUSPO Bukidnon 100km",
+    "header": "MUSPO Bukidnon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22186",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22186",
+    "finisher_count": 35,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22221,
+    "name": "Akha Trail",
+    "distances": "80km",
+    "title": "Asia Trail Master Series | Akha Trail 80km",
+    "header": "Akha Trail 80km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22221",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22221",
+    "finisher_count": 27,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22259,
+    "name": "Penang Eco 100 miles",
+    "distances": "100miles",
+    "title": "Asia Trail Master Series | Penang Eco 100 miles",
+    "header": "Penang Eco 100 miles",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22259",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22259",
+    "finisher_count": 11,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22270,
+    "name": "Penang Eco",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Penang Eco 100km",
+    "header": "Penang Eco 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22270",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22270",
+    "finisher_count": 48,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22318,
+    "name": "Bali Ultra",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Bali Ultra 100km",
+    "header": "Bali Ultra 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22318",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22318",
+    "finisher_count": 25,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22343,
+    "name": "Bali Ultra",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Bali Ultra 50km",
+    "header": "Bali Ultra 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22343",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22343",
+    "finisher_count": 54,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22397,
+    "name": "Borneo TMBT Ultra",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Borneo TMBT Ultra 50km",
+    "header": "Borneo TMBT Ultra 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22397",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22397",
+    "finisher_count": 50,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22447,
+    "name": "Borneo TMBT Ultra",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Borneo TMBT Ultra 100km",
+    "header": "Borneo TMBT Ultra 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22447",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22447",
+    "finisher_count": 64,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22569,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 100km",
+    "header": "Vietnam Mountain Marathon 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22569",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22569",
+    "finisher_count": 58,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22627,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 70km",
+    "header": "Vietnam Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22627",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22627",
+    "finisher_count": 67,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22694,
+    "name": "Vietnam Mountain Marathon",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | Vietnam Mountain Marathon 50km",
+    "header": "Vietnam Mountain Marathon 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22694",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22694",
+    "finisher_count": 52,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22746,
+    "name": "Dark 45",
+    "distances": "45km",
+    "title": "Asia Trail Master Series | Dark 45 45km",
+    "header": "Dark 45 45km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22746",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22746",
+    "finisher_count": 52,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22798,
+    "name": "Matanao Mountain Marathon",
+    "distances": "70km",
+    "title": "Asia Trail Master Series | Matanao Mountain Marathon 70km",
+    "header": "Matanao Mountain Marathon 70km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22798",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22798",
+    "finisher_count": 52,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22850,
+    "name": "UT Chiang Rai",
+    "distances": "115km",
+    "title": "Asia Trail Master Series | UT Chiang Rai 115km",
+    "header": "UT Chiang Rai 115km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22850",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22850",
+    "finisher_count": 38,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22900,
+    "name": "Ultra Trail Chiang Rai",
+    "distances": "250km",
+    "title": "Asia Trail Master Series | Ultra Trail Chiang Rai 250km",
+    "header": "Ultra Trail Chiang Rai 250km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22900",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22900",
+    "finisher_count": 12,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22912,
+    "name": "Ulju Trail 9 Peaks",
+    "distances": "121km",
+    "title": "Asia Trail Master Series | Ulju Trail 9 Peaks 121km",
+    "header": "Ulju Trail 9 Peaks 121km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22912",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22912",
+    "finisher_count": 23,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 22935,
+    "name": "Ulju Trail 5 Peaks",
+    "distances": "45km",
+    "title": "Asia Trail Master Series | Ulju Trail 5 Peaks 45km",
+    "header": "Ulju Trail 5 Peaks 45km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/22935",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/22935",
+    "finisher_count": 18,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23007,
+    "name": "Mantra 116",
+    "distances": "116km",
+    "title": "Asia Trail Master Series | Mantra 116 116km",
+    "header": "Mantra 116 116km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23007",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23007",
+    "finisher_count": 27,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23187,
+    "name": "Mantra 116",
+    "distances": "65km",
+    "title": "Asia Trail Master Series | Mantra 116 65km",
+    "header": "Mantra 116 65km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23187",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23187",
+    "finisher_count": 40,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23227,
+    "name": "MMTF",
+    "distances": "50km",
+    "title": "Asia Trail Master Series | MMTF 50km",
+    "header": "MMTF 50km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23227",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23227",
+    "finisher_count": 50,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23277,
+    "name": "Lam Dong Trail",
+    "distances": "75km",
+    "title": "Asia Trail Master Series | Lam Dong Trail 75km",
+    "header": "Lam Dong Trail 75km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23277",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23277",
+    "finisher_count": 42,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  },
+  {
+    "rts_result_id": 23319,
+    "name": "MMTF",
+    "distances": "100km",
+    "title": "Asia Trail Master Series | MMTF 100km",
+    "header": "MMTF 100km",
+    "url": "https://m.racetimingsolutions.com/rankings/result/23319",
+    "export_url": "https://m.racetimingsolutions.com/rankings/result/exportasexcel/23319",
+    "finisher_count": 50,
+    "years": [
+      2023
+    ],
+    "year": 2023,
+    "source": "rts_result"
+  }
+]
